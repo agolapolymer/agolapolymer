@@ -1,0 +1,8 @@
+﻿# Robots.txt for Agola Polymer
+# https://agolapolymer.in
+
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://agolapolymer.in/sitemap.xml
